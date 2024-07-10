@@ -1,7 +1,12 @@
 <p align="center">
   <img alt="logo" width="8000" src="https://github.com/Architt1402/Architt1402/blob/main/Archit%20Tanwar.png">
 </p>
-<h1 align="center">Hi 👋, I'm Archit Tanwar</h1>
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Archit+😊;Nice+to+meet+you!+🚀;Have+a+great+day✨&center=true&size=30">
+  </a>
+</h1>
+
 <h3 align="center">I am a passionate data analyst with a knack for turning complex data into actionable insights.</h3>
 
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/8619169/screenshots/16116886/media/a63d64bcccad878cb9dfdb9a9f6b6416.gif">
